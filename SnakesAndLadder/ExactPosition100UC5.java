@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class RepeatTill100UC4{
+public class ExactPosition100UC5{
 	
 	static final int ladder = 1, snake = 2;
 	static int moves = 0;
